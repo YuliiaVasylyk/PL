@@ -94,3 +94,4 @@ class Calculator:
 
 calc = Calculator()
 calc.run_calculator()
+
